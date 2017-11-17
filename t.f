@@ -1,101 +1,29 @@
- UserLogin
- SendingUserLogin
- EntityCode
- EntityName
- DestinationEntity
- Owner
- CreateDate
- CreateTime
- StatusDate
- StatusTime
- OSI
- BaseCode
- RootCode
- BaseAssetType
- ExpirationDate
- Strike
- TypeCode
- BuySell
- LegCount
- LegNumber
- OrderType 
- Status
- EnteredPrice
- StatusPrice
- EnteredQty
- StatusQty
- OrderID
- ReplacedOrderID
- CancelOrderID
- ParentID
- SystemOrderID
- ExchangeCode
- GiveUpFirm
- CMTAFirm
- AccountAlias
- Account
- SubAccount
- SubAccount2
- SubAccount3
- OpenClose
- Range
- PriceQualifier
- TimeQualifier
- ExchangeTransactionID
- ExchangeOrderID
- TiedtoStock
- MPID
- Comment
- BidSzA
- BidA
- AskA
- AskSzA
- BidSzZ
- BidZ
- AskZ
- AskSzZ
- BidSzB
- BidB
- AskB
- AskSzB
- BidSzC
- BidC
- AskC
- AskSzC
- BidSzW
- BidW
- AskW
- AskSzW
- BidSzT
- BidT
- AskT
- AskSzT
- BidSzI
- BidI
- AskI
- AskSzI
- BidSzP
- BidP
- AskP
- AskSzP
- BidSzM
- BidM
- AskM
- AskSzM
- BidSzH
- BidH
- AskH
- AskSzH
- BidSzQ
- BidQ
- AskQ
- AskSzQ
- BidSzX
- BidX
- AskX
- AskSzX
- ULBidSz
- ULBid
- ULAsk
-ULAskSz
-ChildRoutedQuantity
+TradeDate
+CompanyCode
+UserLogin
+CreateDateTime
+StatusDateTime
+BaseCode
+ExpirationDate
+Strike
+TypeCode
+BuySell
+LegNumber
+OrderType
+OrderStatus
+EnteredPrice
+StatusPrice
+EnteredQuantity
+StatusQuantity
+OrderID
+CancelOrderID
+ParentID
+ExchangeName
+GiveUpFirm
+CMTAFirm
+Account
+SubAccount
+SubAccount2
+FORW
+PCOD
+OSISymbol
